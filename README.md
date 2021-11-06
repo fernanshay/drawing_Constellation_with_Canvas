@@ -1,4 +1,4 @@
-# drawing_Constellation_with_Canvas
+# Drawing_constellation_with_canvas
 Wanna look your constellation sign at the Sky? you can. With this html file.
 
 <strong>How I did it?</strong>

@@ -1,14 +1,8 @@
 # Drawing_constellation_with_canvas
-Wanna look your constellation sign at the Sky? you can. With this html file.
+🌌 Do you wanna look at your constellation sign in the Sky? It may not be possible now but you can do something similar virtually with this canvas file, just copy it on your computer and run the html file!
 
-<strong>How I did it?</strong>
+<strong> How I did it?</strong>
 
-<stron>Conditionals</strong>, that's all what i could tell you. Using <strong>if - else if - else</strong>, I could do this (don't knew Switch).
+1. I used <strong>Conditionals</strong> to show a different canvas drawing based on what zodiac sign user choosed in the beggining of the page.
 
-<strong>Js</strong>
-
-1. I made all JavaScript apart linking .js file, i started creating all conditionals i'll need, into those conditionals with <strong>stars function</strong> .
-
-2. I created points simulating stars and after that linking it with <strong>star_lines function</strong>.
-
-3. it change when you'll press different <strong>number keys</strong> to choose any sign <strong>like cancer= 4</strong> then you press 4 and you'll see stars and star_lines in the sky.
+2. <strong>Drawing canvas in JavaScript</strong>: I created a canvas and then started to make two main functions for drawing the different zodiac signs, one for points in the canvas (stars) and another for lines that connects these points to form a zodiac sign image (star_lines).
